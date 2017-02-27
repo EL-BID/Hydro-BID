@@ -5,7 +5,7 @@ Hydro-BID nace con la finalidad de proveer a las agencias e instituciones encarg
 
 El sistema está integrado formado por un modelo hidrológico alimentado por una base de datos que contiene la delineación de más de 230 mil cuencas hidrográficas en toda la región de América Latina y el Caribe, cada una de ellas pre-parametrizadas y pre-calibradas con la finalidad de simplificar el proceso de simulación y análisis.
 
-El ejecutable disponible en este repositorio contiene una licencia de uso de 5 días con los datos cargados de XXXX. Para ponerse en contacto con el equipo Hydro-BID puede contactar al email **CONTACT@HYDROBIDLAC.ORG** o acceder a la página web (http://hydrobidlac.org/)[ http://hydrobidlac.org/]
+El ejecutable disponible en este repositorio contiene una licencia de uso de 5 días con los datos cargados de XXXX. Para ponerse en contacto con el equipo Hydro-BID puede contactar al email **CONTACT@HYDROBIDLAC.ORG** o acceder a la página web http://hydrobidlac.org/.
 
 ## Cómo instalar
 ---
@@ -25,5 +25,5 @@ La versión de este repositorio contiene una versión demo de 5 días. Para adqu
 ### Autores
 
 ### Otros enlaces
-* (http://hydrobidlac.org/)[ http://hydrobidlac.org/]
-* Cursos masivos en línea en: (http://cursos.iadb.org) [http://cursos.iadb.org/?lang=en]
+* http://hydrobidlac.org/
+* Cursos masivos en línea en: (http://cursos.iadb.org) 
