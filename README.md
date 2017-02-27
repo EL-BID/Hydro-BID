@@ -26,4 +26,4 @@ La versión de este repositorio contiene una versión demo de 5 días. Para adqu
 
 ### Otros enlaces
 * http://hydrobidlac.org/
-* Cursos masivos en línea en: (http://cursos.iadb.org) 
+* Cursos masivos en línea en: http://cursos.iadb.org
