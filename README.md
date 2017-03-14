@@ -1,4 +1,5 @@
 # Hydro-BID
+> Debido a la naturaleza compleja de este programa, el código fuente a este programa no está accesible. Si quiere más información sobre el código fuente, por favor, dirigirse a CONTACT@HYDROBIDLAC.ORG.
 Hydro-BID es un sistema integrado y cuantitativo para simular hidrología y gestión de recursos hídricos en la región de LAC, bajo escenarios de cambio (p. ej., clima, uso del suelo, población), que permite evaluar la cantidad y calidad del agua, las necesidades de infraestructura, y el diseño de estrategias y proyectos de adaptación en respuesta a estos cambios.
 
 Hydro-BID nace con la finalidad de proveer a las agencias e instituciones encargadas del estudio y manejo integrado de cuencas hidrográficas de una herramienta  capaz de procurar información precisa y completa sobre el ciclo hidrológico al tiempo que permite evaluar los cambios en disponibilidad derivados de cambios naturales o antrópicos al interior de las mismas lo que permite mejorar el proceso de toma de decisiones y planificación a corto, mediano y largo plazo. 
