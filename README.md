@@ -22,10 +22,6 @@ El ejecutable disponible en este repositorio contiene una licencia de uso de 90 
 ### Licencia
 La versión de este repositorio contiene una versión demo de 90 días con los datos de la Cuenca de Pernambuco, Brasil. Para adquirir una licencia de uso completo de Hydro-BID y trabajar con otros datos, por favor ponerse en contacto con  **CONTACT@HYDROBIDLAC.ORG**.
 
-### Cómo contribuir
-
-### En qué contribuir
-
 ### Autores
 
 ### Otros enlaces
