@@ -23,7 +23,7 @@ Podrás descarga gratuítamente QGIS en el siguiente enlace: http://www.qgis.org
 ## Información adicional
 ---
 ### Licencia
-La versión de este repositorio contiene una versión demo de 90 días con los datos de la Cuenca de Pernambuco, Brasil. Para adquirir una licencia de uso completo de Hydro-BID y trabajar con otros datos, por favor ponerse en contacto con  **CONTACT@HYDROBIDLAC.ORG**.
+La versión de este repositorio contiene una versión demo de 90 días con los datos del Río Una, en el estado de Pernambuco, Brasil. Para adquirir una licencia de uso completo de Hydro-BID y trabajar con otros datos, por favor ponerse en contacto con  **CONTACT@HYDROBIDLAC.ORG**.
 
 ### Autores y colaboradores
 * [RTI International](https://www.rti.org/)
