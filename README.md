@@ -1,5 +1,5 @@
 # Hydro-BID
-> Debido a la naturaleza compleja de este programa, el código fuente a este programa no está accesible. Si quiere más información sobre el código fuente, por favor, dirigirse a CONTACT@HYDROBIDLAC.ORG.
+> Hydro-BID es un plugin del sistema de visualizacion geográfica 'QGIS'. En este repositorio puedes encontrar los archivos para instalar el plugin, una licencia de uso de 90 días y un manual de instalación del plugin en 'QGIS'. 
 
 Hydro-BID es un sistema integrado y cuantitativo para simular hidrología y gestión de recursos hídricos en la región de LAC, bajo escenarios de cambio (p. ej., clima, uso del suelo, población), que permite evaluar la cantidad y calidad del agua, las necesidades de infraestructura, y el diseño de estrategias y proyectos de adaptación en respuesta a estos cambios.
 
@@ -11,11 +11,14 @@ El ejecutable disponible en este repositorio contiene una licencia de uso de 90 
 
 ## Cómo ejecutar
 ---
-1. Descargar carpeta Hydro-BID
-2. Hacer doble click en HydroBID-2.0.jar
-3. Introducir licencia
+Este plugin de QGIS se ejecuta desde el programa QGIS.
 
 ### Requisitos de instalación
+Para ejecutar este plugin es necesario haber descargado e instalado el software de visualización geográfica QGIS. QGIS es un software open source que se permite la instalación de plugins para añadir nuevas funcionalidades. Hydro-BID es una de ellas.
+
+Puedes ver los pasos de instalación y configuaración en la **Guía Paso a Paso de Hydro-BID** alojada en este repositorio.
+
+Podrás descarga gratuítamente QGIS en el siguiente enlace: http://www.qgis.org/en/site/ 
 
 ## Información adicional
 ---
@@ -28,3 +31,4 @@ La versión de este repositorio contiene una versión demo de 90 días con los d
 ### Otros enlaces
 * http://hydrobidlac.org/
 * Cursos masivos en línea en: http://cursos.iadb.org
+* QGIS: http://www.qgis.org/en/site/
