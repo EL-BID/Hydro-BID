@@ -14,7 +14,9 @@ El ejecutable disponible en este repositorio contiene una licencia de uso de 90 
 Este plugin de QGIS se ejecuta desde el programa QGIS.
 
 ### Requisitos de instalación
-Para ejecutar este plugin es necesario haber descargado e instalado el software de visualización geográfica QGIS. QGIS es un software open source que se permite la instalación de plugins para añadir nuevas funcionalidades. Hydro-BID es una de ellas.
+* QGIS standalone installer version 2.18
+* SQLite data Browser
+* Java runtime Environment (Java Platform (JDK) 8u111 / 8u112)
 
 Puedes ver los pasos de instalación y configuaración en la **Guía Paso a Paso de Hydro-BID** alojada en este repositorio.
 
