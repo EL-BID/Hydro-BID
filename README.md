@@ -1,4 +1,6 @@
 # Hydro-BID
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Hydro-BID/readme?useReferer)](https://github.com/EL-BID/Hydro-BID)
+
 > Hydro-BID es un plugin del sistema de visualizacion geográfica 'QGIS'. En este repositorio puedes encontrar los archivos para instalar el plugin, una licencia de uso de 90 días y un manual de instalación del plugin en 'QGIS'. 
 
 Hydro-BID es un sistema integrado y cuantitativo para simular hidrología y gestión de recursos hídricos en la región de LAC, bajo escenarios de cambio (p. ej., clima, uso del suelo, población), que permite evaluar la cantidad y calidad del agua, las necesidades de infraestructura, y el diseño de estrategias y proyectos de adaptación en respuesta a estos cambios.
