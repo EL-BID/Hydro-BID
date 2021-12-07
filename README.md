@@ -1,5 +1,6 @@
 # Hydro-BID
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Hydro-BID/readme?useReferer)](https://github.com/EL-BID/Hydro-BID)
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Hydro-BID/readme&dt=&tid=UA-4677001-16)
 
 > Hydro-BID es un plugin del sistema de visualizacion geográfica 'QGIS'. En este repositorio puedes encontrar los archivos para instalar el plugin, una licencia de uso de 90 días y un manual de instalación del plugin en 'QGIS'. 
 
